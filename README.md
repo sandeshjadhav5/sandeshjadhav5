@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh Jadhav</h1>
 <h3 align="center">Aspiring Fullstack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"/>
+<img align="right"  alt="Coding" width="50%" height="300" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshjadhav5&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshjadhav5" /> </p>
 
