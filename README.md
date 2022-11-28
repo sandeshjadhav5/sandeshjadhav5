@@ -30,6 +30,7 @@
 <h3 align="center">Interests :</h3>
 <p  align="center"><h5  align="center">PROGRAMMING</h5>
 <h5  align="center">CREATING BEAUTIFUL UI's</h5>
-<h5  align="center">DSA Hackathons</h5></p>
+<h5  align="center">DSA Hackathons</h5>
+<h5  align="center">Trekking</h5></p>
 
 
