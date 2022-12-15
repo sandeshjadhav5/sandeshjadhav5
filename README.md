@@ -12,12 +12,9 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg" alt="css3" width="40" height="40"/>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195562/express_js-161052138fa79136c0474521906b55e2.png" alt="css3" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" alt="css3" width="40" height="40"/> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.w3schools.com/whatis/img_npm.jpg" alt="css3" width="40" height="40"/> </a>
- 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="css3" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.w3schools.com/whatis/img_npm.jpg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="css3" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg" alt="css3" width="40" height="40"/> 
-  
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg" alt="css3" width="40" height="40"/>
 </p>
 <br/>
 <h3 align="center">Connect with Me :</h3>
