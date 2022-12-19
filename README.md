@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandesh Jadhav</h1>
 <h3 align="center">Aspiring Fullstack Web Developer</h3>
 
-<img align="center"  alt="Coding" width="100%" height="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"/></p>
+<img width="1150rem" height="300rem" align="center"  alt="Coding" width="100%" height="400" src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=826"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshjadhav5&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshjadhav5" /> </p>
 
@@ -24,10 +24,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshjadhav5&show_icons=true" alt="sandeshjadhav5" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshjadhav5&" alt="sandeshjadhav5" /></p>
-<h3 align="center">Interests :</h3>
-<p  align="center"><h5  align="center">PROGRAMMING</h5>
-<h5  align="center">CREATING BEAUTIFUL UI's</h5>
-<h5  align="center">DSA Hackathons</h5>
-<h5  align="center">Trekking</h5></p>
+
 
 
