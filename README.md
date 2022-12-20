@@ -22,7 +22,10 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshjadhav5&show_icons=true&locale=en&layout=compact" alt="sandeshjadhav5" /></p> -->
 <h3 align="center">My Github Stats :</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshjadhav5&show_icons=true" alt="sandeshjadhav5" /></p>
-<br/>
+
+
+<div margin="auto" align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshjadhav5&show_icons=true&locale=en&layout=compact" alt="sandeshjadhav5" /></div>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshjadhav5&" alt="sandeshjadhav5" /></p>
 
 
