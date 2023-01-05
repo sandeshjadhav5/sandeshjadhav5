@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Sandesh Jadhav</h1>
 <h3 align="center">Aspiring Fullstack Web Developer</h3>
 
-<img width="1150rem" height="300rem" align="center"  alt="Coding" width="100%" height="400" src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=826"/></p>
+<img width="1150rem" height="290rem" align="center"  alt="Coding" width="100%" height="400" src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=826"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshjadhav5&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshjadhav5" /> </p>
 
