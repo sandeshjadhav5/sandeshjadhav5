@@ -4,9 +4,10 @@
 <img width="1150rem" height="290rem" align="center"  alt="Coding" width="100%" height="400" src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=826"/></p>
 
 <h2 align="center">About Me</h2>
-<li>All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
+<li >All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
 <li>🧠  Currently I'm learning Full Stack Web Development </li>
-<li>✉️  Contact me on Email <a href="jadhavs932@gmail.com" target="_blank">jadhavs932@gmail.com</a></li>
+<li>💬 Ask me about React, JavaScript and DSA</li>
+<li>✉️  Contact me on Email <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer">jadhavs932@gmail.com</a></li>
 
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshjadhav5&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshjadhav5" /> </p>
