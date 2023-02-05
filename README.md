@@ -6,10 +6,11 @@
 <h2 align="center">About Me</h2>
 <li >All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
 <li>🧠  Currently I'm learning Full Stack Web Development </li>
+<li>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1NIsoOq7r768LMXsv5x0QHSQa971P6jdV"  target="_blank">Resume</a></li>
 <li>💬 Ask me about React, JavaScript and DSA</li>
 <li>✉️  Contact me on Email <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer">jadhavs932@gmail.com</a></li>
 
-<hr/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshjadhav5&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshjadhav5" /> </p>
 <hr/>
 
@@ -42,10 +43,7 @@
    <br/>
  </div>
 </div>
-
-<hr />
 <hr/>
-<br/>
 <h3 align="center">Connect with Me :</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/sandesh-jadhav-0a2344202/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="css3" width="40" height="40"/> </a> <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="html5" width="40" height="40"/> </a> <a href="https://sandeshjadhav5.github.io/" target="_blank"><img src="https://i.pinimg.com/736x/de/59/4e/de594ec09881da3fa66d98384a3c72ff.jpg" alt="portfolio" width="45" height="40"/></a> </p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshjadhav5&show_icons=true&locale=en&layout=compact" alt="sandeshjadhav5" /></p> -->
