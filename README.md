@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sandesh Jadhav</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-<img width="1150rem" height="290rem" align="center"  alt="Coding" width="100%" height="400" src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=826"/></p>
-
+<div  align="center">
+    <img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" height="200px">
+</div>
 <h2 align="center">About Me</h2>
 <li >All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
 <li>🧠  Currently I'm learning Full Stack Web Development </li>
 <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1D_0EIwKGaVxiFy3_2DYsMQZ49pdmLT5C/view?usp=sharing"  target="_blank">Resume</a></li>
-<li>💬 Ask me about React, JavaScript and DSA</li>
+<li>💬 Ask me about React, JavaScript and Data Structures and Algorithms</li>
 <li>✉️  Contact me on Email <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer">jadhavs932@gmail.com</a></li>
 
 <br/>
