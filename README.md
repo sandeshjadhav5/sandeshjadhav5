@@ -17,7 +17,80 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
- 
+ <table border="1" align="center">
+  <tr>
+    <td>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://www.chartjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
+    </td>  
+  </tr>
+  <tr>       
+    <td>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
+      </a>
+    </td> 
+    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
+      </a>
+    </td>  
+  </tr>
+  <tr> 
+    <td>
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://www.tailwindcss.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://mui.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://chakra-ui.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.windicss.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.openui5.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="50" /></a>
+    </td>  
+  </tr>
+<table>
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
