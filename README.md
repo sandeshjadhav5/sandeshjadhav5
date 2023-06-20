@@ -33,16 +33,15 @@
       <a href="https://nextjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="50" >
       </a>
-    </td>  
-    <td>
-      <a href="https://threejs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
+    </td><td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="50" >
       </a>
-    </td>  
-    <td>
-      <a href="https://www.chartjs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
-    </td>  
+    </td>  <td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
+      </a>
+    </td>
   </tr>
   <tr>       
     <td>
@@ -55,16 +54,30 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" >
       </a>
     </td>
+  <td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" >
+      </a>
+    </td> 
+ <td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original-wordmark.svg" height="50" >
+      </a>
+    </td>
+<td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" height="50" >
+      </a>
+    </td>  
+  <td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
+      </a>
+    </td>  
     <td>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
-      </a>
-    </td>
-      <td>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="50" >
-      </a>
-    </td>
+      <a href="https://www.chartjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
+    </td>  
   </tr>
   <tr> 
     <td>
