@@ -19,6 +19,11 @@
 <div align="center">
  <table border="1" align="center">
   <tr>
+       <td>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
+      </a>
+    </td> 
     <td>
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="50" >
@@ -44,16 +49,7 @@
     </td>
   </tr>
   <tr>       
-    <td>
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
-      </a>
-    </td> 
-    <td>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" >
-      </a>
-    </td>
+   
   <td>
       <a href="https://threejs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" >
@@ -68,7 +64,12 @@
       <a href="https://threejs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" height="50" >
       </a>
-    </td>  
+    </td>
+ <td>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" />
+      </a>
+    </td> 
   <td>
       <a href="https://threejs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
@@ -98,43 +99,13 @@
     <td>
       <a href="https://chakra-ui.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a> 
-    </td>  
-    <td>
-      <a href="https://www.windicss.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a> 
-    </td>  
-    <td>
+    </td> <td>
       <a href="https://www.openui5.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="50" /></a>
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="OpenUI5" height="50" /></a>
     </td>  
   </tr>
 <table>
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/> -->
-<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-</div>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-<!--    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <br/>
- </div>
-</div>
+
 <hr/>
 <h3 align="center">Connect with Me :</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/sandesh-jadhav-0a2344202/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="css3" width="40" height="40"/> </a> <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="html5" width="40" height="40"/> </a> <a href="https://sandeshjadhav5.github.io/" target="_blank"><img src="https://i.pinimg.com/736x/de/59/4e/de594ec09881da3fa66d98384a3c72ff.jpg" alt="portfolio" width="45" height="40"/></a> </p>
