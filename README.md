@@ -80,12 +80,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
     </td>  
   </tr>
-  <tr> 
-    <td>
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" height="50" >
-      </a>
-    </td>  
+  <tr>
     <td>
       <a href="https://www.tailwindcss.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" >
@@ -99,10 +94,20 @@
     <td>
       <a href="https://chakra-ui.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a> 
-    </td> <td>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" height="50" >
+      </a>
+    </td>
+    <td>
       <a href="https://www.openui5.org/" target="_blank">
         <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="OpenUI5" height="50" /></a>
-    </td>  
+    </td>
+    <td>
+      <a href="https://www.openui5.org/" target="_blank">
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" alt="OpenUI5" height="50" /></a>
+    </td> 
   </tr>
 <table>
 
