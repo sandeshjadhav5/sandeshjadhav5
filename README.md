@@ -6,7 +6,7 @@
 </div>
 <h2 align="center">About Me</h2>
 <li >All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
-<li>🧠  Currently I'm learning NextJs,OAuth,Advanced MongoDB </li>
+<li>🧠  Currently I'm learning Python,Java,Goland & Django </li>
 <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1D_0EIwKGaVxiFy3_2DYsMQZ49pdmLT5C/view?usp=sharing"  target="_blank">Resume</a></li>
 <li>💬 Ask me about React, JavaScript and Data Structures and Algorithms</li>
 <li>✉️  Contact me on Email <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer">jadhavs932@gmail.com</a></li>
