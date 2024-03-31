@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sandesh Jadhav</h1>
-<h3 align="center">FullStack Web Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <div  align="center">
     <img src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" >
 </div>
 <h2 align="center">About Me</h2>
 <li >All My Projects are available at 👉 <a href="https://sandeshjadhav5.github.io/" target="_blank">Portfolio</a></li>
-<li>🧠  Currently I'm learning NextJs,Python,Java,MongoDB Adavanced, Django</li>
+<li>🧠  Currently I'm learning NextJs, Python, Java, MongoDB Adavanced, Django</li>
 <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1D_0EIwKGaVxiFy3_2DYsMQZ49pdmLT5C/view?usp=sharing"  target="_blank">Resume</a></li>
-<li>💬 Ask me about React,NextJs, JavaScript, and Data Structures and Algorithms</li>
+<li>💬 Ask me about React, NextJs, JavaScript, and Data Structures and Algorithms</li>
 <li>✉️  Contact me on Email <a href="mailto: jadhavs932@gmail.com" target="_blank" rel="noreferrer">jadhavs932@gmail.com</a></li>
 
 <br/>
